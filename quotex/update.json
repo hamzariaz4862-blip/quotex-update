@@ -1,5 +1,5 @@
 {
-  "minVersionCode": 999,
+  "minVersionCode": 1,
   "latestVersionCode": 999,
-  "forceUpdate": true
+  "forceUpdate": false
 }
